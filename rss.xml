@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Les Métamorphoses de C.]]></title>
         <description><![CDATA[Les Métamorphoses de C.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/les-mtamorphoses-de-c/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 13:03:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 12 Jun 2016 13:04:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/les-mtamorphoses-de-c/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Les Métamorphoses de C.: Le grand souffle]]></title>
+            <description><![CDATA[<article><h1>Les Métamorphoses de C.: Le grand souffle</h1><p>Le vase de Soissons fracassé Céladon, il était de couleur céladon S'imposait par son silence ... Un vase est mort ce soir Il pleut à verse des brocs de Gueuze !</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f97f3445ec3539dd97fe9a2040706cf63158a7fe.jpg"></article>]]></description>
+            <link>https://metamorphosisinc.blogspot.be/2016/06/le-grand-souffle.html</link>
+            <guid isPermaLink="false">3d613762-6d4a-4d84-bc82-45b5d28cad9b</guid>
+            <pubDate>Sun, 12 Jun 2016 13:03:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Les Métamorphoses de C.: Un tour de table et La Pléiade]]></title>
             <description><![CDATA[<article><h1>Les Métamorphoses de C.: Un tour de table et La Pléiade</h1><p>Pour la première fois depuis que le blog existe, j'improvise un billet en écrivant directement dans l'éditeur de texte de l'outil Blogger. Inéluctable modalité du visible, Inquiet, j'observe d'une part que rien n'a encore été publié ce mois-ci sur le blog des "Métamorphoses de C."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16ff438df0f33e6e47d77c1db3fab353bacf473d.jpg"></article>]]></description>
